@@ -3,7 +3,7 @@ console.log("Hola mundo!");
 
 let miNombre = "Lautaro";   
 const DNI = 37802718;
-var edad = 28
+var edad = 27
 
 
 let edadBianca = 30;
